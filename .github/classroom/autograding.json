@@ -1,13 +1,13 @@
 {
   "tests": [
     {
-      "name": "run_os",
+      "name": "test",
       "setup": "",
-      "run": "echo success!",
+      "run": "make setup",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 15,
+      "timeout": 10,
       "points": 100
     }
   ]
